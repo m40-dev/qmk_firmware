@@ -38,17 +38,23 @@ keycaps
 Handwiring guide: https://docs.qmk.fm/#/hand_wire
 
 Wiring diagram overview (expectation)
+
 ![](attachments/Pasted%20image%2020240125174902.png)
 
 Wiring (reality)
-Important thing, as you can see, the rows are wired in a way that they are connected to the board from the center of the keyboard, not the outside. This wiring direction needs to be followed to match then the keyboard layout in the firmware configuration.
+
+Important thing, the rows are wired in a way that they are connected to the board from the center of the keyboard (trackball side), not the outside edge. 
+This wiring direction needs to be followed to match then the keyboard layout in the firmware configuration.
 
 ![600x450](attachments/IMG_20240125_191238.jpg)
 
 Hot glued arduino board to the bottom of the case so it does not move, wires enter the board from the bottom.
+
 ![600x450](attachments/IMG_20240125_191248.jpg)
 
-Trackball sensor is wired with cables entered from the sensor side and cut down as short as possible. Be patient here with the soldering, the cables will eventually fit, but it is all very tight there. make more room if you feel that you need it (drill is your friend or modify the model accordingly). 
+Trackball sensor is wired with cables entered from the sensor side and cut down as short as possible. 
+
+Be patient here with the soldering, the cables will eventually fit, but it is all very tight there. make more room if you feel that you need it (drill is your friend or modify the model accordingly). 
 
 If your mouse cursor is nervous, twitching and moving around excessively, the distance is most likely wrong.
 
