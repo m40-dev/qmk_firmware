@@ -78,9 +78,6 @@ tags
 *.bmp
 *.wbmp
 *.gif
-*.jpg
-*.jpeg
-*.png
 *.apng
 *.mng
 *.svg
